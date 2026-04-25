@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MyIzin</string>
+    <string name="title_activity_main">MyIzin</string>
+    <string name="package_name">com.perizinan.santri</string>
+    <string name="custom_url_scheme">com.perizinan.santri</string>
+</resources>
